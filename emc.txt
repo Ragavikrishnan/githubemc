@@ -1,1 +1,2 @@
 create emc.text file
+yes its working
